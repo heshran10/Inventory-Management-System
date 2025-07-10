@@ -3,7 +3,7 @@ import java.sql.Connection;
 import javax.swing.JOptionPane;
 
 /**
- * Author: omteja04
+ * Author: hershan_10
  * Description: Initiator
  */
 

@@ -1,6 +1,6 @@
 
 /**
- * Author: omteja04
+ * Author: hershan_10
  * Description: UpdateQuantityDB
  */
 import java.sql.Connection;
